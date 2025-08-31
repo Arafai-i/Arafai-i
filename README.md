@@ -9,8 +9,8 @@
 ---
 
 ## 🔗 Quick Links
-- ✍️ **Blog (Blogger):** <add-your-blog-url>  
-- 💼 **LinkedIn:** <www.linkedin.com/in/akerele-faith-090ba2268>  
+- ✍️ **Blog (Blogger):** https://secbyarafai.blogspot.com/2025/06/Journey-To-Cybersecurity.html 
+- 💼 **LinkedIn:** www.linkedin.com/in/akerele-faith-090ba2268
 - ✉️ **Contact:** faithakerele14@gmail.com
 
 ---
