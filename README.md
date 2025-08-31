@@ -10,8 +10,8 @@
 
 ## 🔗 Quick Links
 - ✍️ **Blog (Blogger):** <add-your-blog-url>  
-- 💼 **LinkedIn:** <add-your-clean-linkedin-url>  
-- ✉️ **Contact:** <your.email@domain.com> (optional)
+- 💼 **LinkedIn:** <www.linkedin.com/in/akerele-faith-090ba2268>  
+- ✉️ **Contact:** faithakerele14@gmail.com
 
 ---
 
