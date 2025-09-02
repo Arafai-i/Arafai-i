@@ -35,7 +35,8 @@ Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics • Git
 ---
 
 ## 🏅 Certifications (selected)
-List a few key certs here (or “In progress”), and keep the full list in the repo above.
+- Security+
+- CYSA+
 
 ---
 
