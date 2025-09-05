@@ -1,4 +1,4 @@
-# Hi, I’m Akerele Faith (Arafai) 👋
+# Hi, I’m Akerele Faith (Secbyarafai) 👋
 **Cybersecurity Enthusiast • Red & Blue Team Learner • Building Real-World Skills**
 
 - 🇬🇧 Based in the UK (open to cybersecurity apprenticeships)
